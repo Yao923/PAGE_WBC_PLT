@@ -65,7 +65,7 @@ type bigWig
 color 0,0,255
 
 track hemotapoietic_stem_cells_Enhancer_H3K4me1
-bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K27ac/E035-H3K4me1.imputed.pval.signal.bigwig
+bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K4me1/E035-H3K4me1.imputed.pval.signal.bigwig
 shortLabel hemotapoietic_stem_cells_Enhancer_H3K4me1
 longLabel hemotapoietic_stem_cells_Enhancer_H3K4me1
 parent Enhancer_tracks
@@ -73,7 +73,7 @@ type bigWig
 color 0,0,255
 
 track mononuclear_cells_Enhancer_H3K4me1
-bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K27ac/E062-H3K4me1.imputed.pval.signal.bigwig
+bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K4me1/E062-H3K4me1.imputed.pval.signal.bigwig
 shortLabel mononuclear_cells_Enhancer_H3K4me1
 longLabel mononuclear_cells_Enhancer_H3K4me1
 parent Enhancer_tracks
@@ -81,7 +81,7 @@ type bigWig
 color 0,0,255
 
 track monocytes_Enhancer_H3K4me1
-bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K27ac/E029-H3K4me1.imputed.pval.signal.bigwig
+bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K4me1/E029-H3K4me1.imputed.pval.signal.bigwig
 shortLabel monocytes_Enhancer_H3K4me1
 longLabel monocytes_Enhancer_H3K4me1
 parent Enhancer_tracks
@@ -89,7 +89,7 @@ type bigWig
 color 0,0,255
 
 track neutrophils_Enhancer_H3K4me1
-bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K27ac/E030-H3K4me1.imputed.pval.signal.bigwig
+bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K4me1/E030-H3K4me1.imputed.pval.signal.bigwig
 shortLabel neutrophils_Enhancer_H3K4me1
 longLabel neutrophils_Enhancer_H3K4me1
 parent Enhancer_tracks
@@ -97,7 +97,7 @@ type bigWig
 color 0,0,255
 
 track natural_killer_cells_Enhancer_H3K4me1
-bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K27ac/E046-H3K4me1.imputed.pval.signal.bigwig
+bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K4me1/E046-H3K4me1.imputed.pval.signal.bigwig
 shortLabel natural_killer_cells_Enhancer_H3K4me1
 longLabel natural_killer_cells_Enhancer_H3K4me1
 parent Enhancer_tracks
@@ -105,7 +105,7 @@ type bigWig
 color 0,0,255
 
 track T_cells_Enhancer_H3K4me1
-bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K27ac/E034-H3K4me1.imputed.pval.signal.bigwig
+bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K4me1/E034-H3K4me1.imputed.pval.signal.bigwig
 shortLabel T_cells_Enhancer_H3K4me1
 longLabel T_cells_Enhancer_H3K4me1
 parent Enhancer_tracks
@@ -113,7 +113,7 @@ type bigWig
 color 0,0,255
 
 track B_cells_Enhancer_H3K4me1
-bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K27ac/E032-H3K4me1.imputed.pval.signal.bigwig
+bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K4me1/E032-H3K4me1.imputed.pval.signal.bigwig
 shortLabel B_cells_Enhancer_H3K4me1
 longLabel B_cells_Enhancer_H3K4me1
 parent Enhancer_tracks
