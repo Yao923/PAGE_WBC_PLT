@@ -1,0 +1,5 @@
+hub PAGE_epigenomes_WBC_PLT
+shortLabel PAGE_epigenomes
+longLabel PAGE_epigenomes_WBC_PLT
+genomesFile genomes.txt
+email huyao923@gmail.com
