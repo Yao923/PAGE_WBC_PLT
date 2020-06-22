@@ -8,18 +8,18 @@ maxHeightPixels 150:30:11
 visibility full
 priority 1
 
-track hemotapoietic stem cells_Enhancer_H3K27ac
+track hemotapoietic_stem_cells_Enhancer_H3K27ac
 bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K27ac/E035-H3K27ac.imputed.pval.signal.bigwig
-shortLabel hemotapoietic stem cells_Enhancer_H3K27ac
-longLabel hemotapoietic stem cells_Enhancer_H3K27ac
+shortLabel hemotapoietic_stem_cells_Enhancer_H3K27ac
+longLabel hemotapoietic_stem_cells_Enhancer_H3K27ac
 parent Enhancer_tracks
 type bigWig
 color 0,0,255
 
-track mononuclear cells_Enhancer_H3K27ac
+track mononuclear_cells_Enhancer_H3K27ac
 bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K27ac/E062-H3K27ac.imputed.pval.signal.bigwig
-shortLabel mononuclear cells_Enhancer_H3K27ac
-longLabel mononuclear cells_Enhancer_H3K27ac
+shortLabel mononuclear_cells_Enhancer_H3K27ac
+longLabel mononuclear_cells_Enhancer_H3K27ac
 parent Enhancer_tracks
 type bigWig
 color 0,0,255
@@ -40,42 +40,42 @@ parent Enhancer_tracks
 type bigWig
 color 0,0,255
 
-track natural killer cells_Enhancer_H3K27ac
+track natural_killer_cells_Enhancer_H3K27ac
 bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K27ac/E046-H3K27ac.imputed.pval.signal.bigwig
-shortLabel natural killer cells_Enhancer_H3K27ac
-longLabel natural killer cells_Enhancer_H3K27ac
+shortLabel natural_killer_cells_Enhancer_H3K27ac
+longLabel natural_killer_cells_Enhancer_H3K27ac
 parent Enhancer_tracks
 type bigWig
 color 0,0,255
 
-track T cells_Enhancer_H3K27ac
+track T_cells_Enhancer_H3K27ac
 bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K27ac/E034-H3K27ac.imputed.pval.signal.bigwig
-shortLabel T cells_Enhancer_H3K27ac
-longLabel T cells_Enhancer_H3K27ac
+shortLabel T_cells_Enhancer_H3K27ac
+longLabel T_cells_Enhancer_H3K27ac
 parent Enhancer_tracks
 type bigWig
 color 0,0,255
 
-track B cells_Enhancer_H3K27ac
+track B_cells_Enhancer_H3K27ac
 bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K27ac/E032-H3K27ac.imputed.pval.signal.bigwig
-shortLabel B cells_Enhancer_H3K27ac
-longLabel B cells_Enhancer_H3K27ac
+shortLabel B_cells_Enhancer_H3K27ac
+longLabel B_cells_Enhancer_H3K27ac
 parent Enhancer_tracks
 type bigWig
 color 0,0,255
 
-track hemotapoietic stem cells_Enhancer_H3K4me1
+track hemotapoietic_stem_cells_Enhancer_H3K4me1
 bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K27ac/E035-H3K4me1.imputed.pval.signal.bigwig
-shortLabel hemotapoietic stem cells_Enhancer_H3K4me1
-longLabel hemotapoietic stem cells_Enhancer_H3K4me1
+shortLabel hemotapoietic_stem_cells_Enhancer_H3K4me1
+longLabel hemotapoietic_stem_cells_Enhancer_H3K4me1
 parent Enhancer_tracks
 type bigWig
 color 0,0,255
 
-track mononuclear cells_Enhancer_H3K4me1
+track mononuclear_cells_Enhancer_H3K4me1
 bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K27ac/E062-H3K4me1.imputed.pval.signal.bigwig
-shortLabel mononuclear cells_Enhancer_H3K4me1
-longLabel mononuclear cells_Enhancer_H3K4me1
+shortLabel mononuclear_cells_Enhancer_H3K4me1
+longLabel mononuclear_cells_Enhancer_H3K4me1
 parent Enhancer_tracks
 type bigWig
 color 0,0,255
@@ -96,26 +96,26 @@ parent Enhancer_tracks
 type bigWig
 color 0,0,255
 
-track natural killer cells_Enhancer_H3K4me1
+track natural_killer_cells_Enhancer_H3K4me1
 bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K27ac/E046-H3K4me1.imputed.pval.signal.bigwig
-shortLabel natural killer cells_Enhancer_H3K4me1
-longLabel natural killer cells_Enhancer_H3K4me1
+shortLabel natural_killer_cells_Enhancer_H3K4me1
+longLabel natural_killer_cells_Enhancer_H3K4me1
 parent Enhancer_tracks
 type bigWig
 color 0,0,255
 
-track T cells_Enhancer_H3K4me1
+track T_cells_Enhancer_H3K4me1
 bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K27ac/E034-H3K4me1.imputed.pval.signal.bigwig
-shortLabel T cells_Enhancer_H3K4me1
-longLabel T cells_Enhancer_H3K4me1
+shortLabel T_cells_Enhancer_H3K4me1
+longLabel T_cells_Enhancer_H3K4me1
 parent Enhancer_tracks
 type bigWig
 color 0,0,255
 
-track B cells_Enhancer_H3K4me1
+track B_cells_Enhancer_H3K4me1
 bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K27ac/E032-H3K4me1.imputed.pval.signal.bigwig
-shortLabel B cells_Enhancer_H3K4me1
-longLabel B cells_Enhancer_H3K4me1
+shortLabel B_cells_Enhancer_H3K4me1
+longLabel B_cells_Enhancer_H3K4me1
 parent Enhancer_tracks
 type bigWig
 color 0,0,255
@@ -130,18 +130,18 @@ maxHeightPixels 150:30:11
 visibility full
 priority 2
 
-track hemotapoietic stem cells_Enhancer_H3K27me3
+track hemotapoietic_stem_cells_Enhancer_H3K27me3
 bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K27me3/E035-H3K27me3.imputed.pval.signal.bigwig
-shortLabel hemotapoietic stem cells_Enhancer_H3K27me3
-longLabel hemotapoietic stem cells_Enhancer_H3K27me3
+shortLabel hemotapoietic_stem_cells_Enhancer_H3K27me3
+longLabel hemotapoietic_stem_cells_Enhancer_H3K27me3
 parent Enhancer_tracks
 type bigWig
 color 0,0,255
 
-track mononuclear cells_Enhancer_H3K27me3
+track mononuclear_cells_Enhancer_H3K27me3
 bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K27me3/E062-H3K27me3.imputed.pval.signal.bigwig
-shortLabel mononuclear cells_Enhancer_H3K27me3
-longLabel mononuclear cells_Enhancer_H3K27me3
+shortLabel mononuclear_cells_Enhancer_H3K27me3
+longLabel mononuclear_cells_Enhancer_H3K27me3
 parent Enhancer_tracks
 type bigWig
 color 0,0,255
@@ -162,26 +162,26 @@ parent Enhancer_tracks
 type bigWig
 color 0,0,255
 
-track natural killer cells_Enhancer_H3K27me3
+track natural_killer_cells_Enhancer_H3K27me3
 bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K27me3/E046-H3K27me3.imputed.pval.signal.bigwig
-shortLabel natural killer cells_Enhancer_H3K27me3
-longLabel natural killer cells_Enhancer_H3K27me3
+shortLabel natural_killer_cells_Enhancer_H3K27me3
+longLabel natural_killer_cells_Enhancer_H3K27me3
 parent Enhancer_tracks
 type bigWig
 color 0,0,255
 
-track T cells_Enhancer_H3K27me3
+track T_cells_Enhancer_H3K27me3
 bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K27me3/E034-H3K27me3.imputed.pval.signal.bigwig
-shortLabel T cells_Enhancer_H3K27me3
-longLabel T cells_Enhancer_H3K27me3
+shortLabel T_cells_Enhancer_H3K27me3
+longLabel T_cells_Enhancer_H3K27me3
 parent Enhancer_tracks
 type bigWig
 color 0,0,255
 
-track B cells_Enhancer_H3K27me3
+track B_cells_Enhancer_H3K27me3
 bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K27me3/E032-H3K27me3.imputed.pval.signal.bigwig
-shortLabel B cells_Enhancer_H3K27me3
-longLabel B cells_Enhancer_H3K27me3
+shortLabel B_cells_Enhancer_H3K27me3
+longLabel B_cells_Enhancer_H3K27me3
 parent Enhancer_tracks
 type bigWig
 color 0,0,255
@@ -196,18 +196,18 @@ maxHeightPixels 150:30:11
 visibility full
 priority 3
 
-track hemotapoietic stem cells_DHS
+track hemotapoietic_stem_cells_DHS
 bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/DNase/E035-DNase.imputed.pval.signal.bigwig
-shortLabel hemotapoietic stem cells_DHS
-longLabel hemotapoietic stem cells_DHS
+shortLabel hemotapoietic_stem_cells_DHS
+longLabel hemotapoietic_stem_cells_DHS
 parent DHS_tracks
 type bigWig
 color 0,0,255
 
-track mononuclear cells_Enhancer_DHS
+track mononuclear_cells_Enhancer_DHS
 bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/DNase/E062-DNase.imputed.pval.signal.bigwig
-shortLabel mononuclear cells_DHS
-longLabel mononuclear cells_DHS
+shortLabel mononuclear_cells_DHS
+longLabel mononuclear_cells_DHS
 parent DHS_tracks
 type bigWig
 color 0,0,255
@@ -228,26 +228,26 @@ parent DHS_tracks
 type bigWig
 color 0,0,255
 
-track natural killer cells_DHS
+track natural_killer_cells_DHS
 bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/DNase/E046-DNase.imputed.pval.signal.bigwig
-shortLabel natural killer cells_DHS
-longLabel natural killer cells_DHS
+shortLabel natural_killer_cells_DHS
+longLabel natural_killer_cells_DHS
 parent DHS_tracks
 type bigWig
 color 0,0,255
 
-track T cells_DHS
+track T_cells_DHS
 bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/DNase/E034-DNase.imputed.pval.signal.bigwig
-shortLabel T cells_DHS
-longLabel T cells_DHS
+shortLabel T_cells_DHS
+longLabel T_cells_DHS
 parent DHS_tracks
 type bigWig
 color 0,0,255
 
-track B cells_DHS
+track B_cells_DHS
 bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/DNase/E032-DNase.imputed.pval.signal.bigwig
-shortLabel B cells_DHS
-longLabel B cells_DHS
+shortLabel B_cells_DHS
+longLabel B_cells_DHS
 parent DHS_tracks
 type bigWig
 color 0,0,255
@@ -262,18 +262,18 @@ maxHeightPixels 150:30:11
 visibility full
 priority 4
 
-track hemotapoietic stem cells_Enhancer_H3K36me3
+track hemotapoietic_stem_cells_Enhancer_H3K36me3
 bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K36me3/E035-H3K36me3.imputed.pval.signal.bigwig
-shortLabel hemotapoietic stem cells_Enhancer_H3K36me3
-longLabel hemotapoietic stem cells_Enhancer_H3K36me3
+shortLabel hemotapoietic_stem_cells_Enhancer_H3K36me3
+longLabel hemotapoietic_stem_cells_Enhancer_H3K36me3
 parent Enhancer_tracks
 type bigWig
 color 0,0,255
 
-track mononuclear cells_Enhancer_H3K36me3
+track mononuclear_cells_Enhancer_H3K36me3
 bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K36me3/E062-H3K36me3.imputed.pval.signal.bigwig
-shortLabel mononuclear cells_Enhancer_H3K36me3
-longLabel mononuclear cells_Enhancer_H3K36me3
+shortLabel mononuclear_cells_Enhancer_H3K36me3
+longLabel mononuclear_cells_Enhancer_H3K36me3
 parent Enhancer_tracks
 type bigWig
 color 0,0,255
@@ -294,26 +294,26 @@ parent Enhancer_tracks
 type bigWig
 color 0,0,255
 
-track natural killer cells_Enhancer_H3K36me3
+track natural_killer_cells_Enhancer_H3K36me3
 bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K36me3/E046-H3K36me3.imputed.pval.signal.bigwig
-shortLabel natural killer cells_Enhancer_H3K36me3
-longLabel natural killer cells_Enhancer_H3K36me3
+shortLabel natural_killer_cells_Enhancer_H3K36me3
+longLabel natural_killer_cells_Enhancer_H3K36me3
 parent Enhancer_tracks
 type bigWig
 color 0,0,255
 
-track T cells_Enhancer_H3K36me3
+track T_cells_Enhancer_H3K36me3
 bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K36me3/E034-H3K36me3.imputed.pval.signal.bigwig
-shortLabel T cells_Enhancer_H3K36me3
-longLabel T cells_Enhancer_H3K36me3
+shortLabel T_cells_Enhancer_H3K36me3
+longLabel T_cells_Enhancer_H3K36me3
 parent Enhancer_tracks
 type bigWig
 color 0,0,255
 
-track B cells_Enhancer_H3K36me3
+track B_cells_Enhancer_H3K36me3
 bigDataUrl http://egg2.wustl.edu/roadmap/data/byFileType/signal/consolidatedImputed/H3K36me3/E032-H3K36me3.imputed.pval.signal.bigwig
-shortLabel B cells_Enhancer_H3K36me3
-longLabel B cells_Enhancer_H3K36me3
+shortLabel B_cells_Enhancer_H3K36me3
+longLabel B_cells_Enhancer_H3K36me3
 parent Enhancer_tracks
 type bigWig
 color 0,0,255
